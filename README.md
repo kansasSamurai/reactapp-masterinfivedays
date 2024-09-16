@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Book : Master React in 5 Days
+This project follows the code/examples from this book.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
